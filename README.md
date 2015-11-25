@@ -7,11 +7,11 @@
 
 ####下面是几幅基本功能截图
 
-<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/screenshot.png" alt="Drawing"  width="80"/>
+<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/screenshot.png" alt="Drawing"  />
 
-<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/screenshot1.png" alt="Drawing"  width="80"/>
+<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/screenshot1.png" alt="Drawing"  />
 
-<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/screenshot2.png" alt="Drawing"  width="80"/>
+<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/screenshot2.png" alt="Drawing"  />
 
 JavaFX相关
 --------
@@ -42,7 +42,7 @@ Run
 --------
 * GIF加载较慢，请耐心...
     
-<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/roomtour.gif" alt="Drawing"  width="80"/>
+<img src="https://github.com/msandroid/RoomTour/blob/master/screenshot/roomtour.gif" alt="Drawing" />
 
 
 License
