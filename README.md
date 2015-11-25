@@ -24,6 +24,10 @@ Java相关
 
 * ...
 
+Run
+--------
+    直接下载[RoomTour.jar](https://github.com/msandroid/RoomTour/blob/master/RoomTour.jar)，双击运行；
+    Clone源代码，导入到Project
 
 
 License
