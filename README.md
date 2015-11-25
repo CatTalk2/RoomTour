@@ -4,13 +4,8 @@
 
 =====
 
-A facial recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from a video source. One of the ways to do this is by comparing selected facial features from the image and a facial database.
-
-　　　　　　　　　　　![](https://github.com/msAndroid/Face-recognition/blob/master/img/face.png)
-
-There are some Libraries and papers(download for free) about it.
-
-If you are interested in this, you can follow and pull your requests. We can try to make it more perfect.
+基本功能要求：
+ 
 
 Library
 --------
