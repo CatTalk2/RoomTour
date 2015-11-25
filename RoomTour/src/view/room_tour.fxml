@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="752.0" prefWidth="1308.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.TourController">
+   <children>
+      <Button fx:id="btnLeft" layoutX="81.0" layoutY="675.0" mnemonicParsing="false" onAction="#turnLeft" AnchorPane.bottomAnchor="31.0" AnchorPane.topAnchor="675.0">
+         <effect>
+            <ColorAdjust />
+         </effect></Button>
+      <Button fx:id="btnRight" layoutX="231.0" layoutY="675.0" mnemonicParsing="false" onAction="#turnRight" AnchorPane.bottomAnchor="31.0" AnchorPane.topAnchor="675.0">
+         <effect>
+            <ColorAdjust />
+         </effect></Button>
+      <Button fx:id="btnForward" layoutX="153.0" layoutY="612.0" mnemonicParsing="false" onAction="#moveForward" AnchorPane.bottomAnchor="94.0">
+         <effect>
+            <ColorAdjust />
+         </effect></Button>
+      <Button fx:id="btnBack" layoutX="153.0" layoutY="675.0" mnemonicParsing="false" onAction="#moveBack" AnchorPane.bottomAnchor="31.0" AnchorPane.topAnchor="675.0">
+         <effect>
+            <ColorAdjust />
+         </effect></Button>
+      <Button fx:id="btnPick" layoutX="330.0" layoutY="612.0" mnemonicParsing="false" onAction="#pickUp" AnchorPane.bottomAnchor="94.0" />
+      <Button fx:id="btnPut" layoutX="567.0" layoutY="612.0" mnemonicParsing="false" onAction="#pullDown" AnchorPane.bottomAnchor="94.0" />
+      <ImageView fx:id="imageView" fitHeight="588.0" fitWidth="829.0" layoutX="14.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="catImage" fitHeight="150.0" fitWidth="200.0" layoutX="372.0" layoutY="225.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="imageMap" fitHeight="242.0" fitWidth="200.0" layoutX="1075.0" layoutY="13.0" pickOnBounds="true" preserveRatio="true" />
+      <ComboBox fx:id="comboBox" layoutX="858.0" layoutY="3.0" onAction="#changeLocation" prefWidth="150.0" />
+      <Label fx:id="catNumber" layoutX="560.0" layoutY="709.0" />
+      <TextArea fx:id="messageText" layoutX="1042.0" layoutY="462.0" prefHeight="228.0" prefWidth="247.0" />
+      <ImageView fx:id="defaultImage" fitHeight="125.0" fitWidth="150.0" layoutX="1025.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="catCage" fitHeight="150.0" fitWidth="200.0" layoutX="400.0" layoutY="600.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="anotherNumber" layoutX="1055.0" layoutY="433.0" prefHeight="15.0" prefWidth="229.0" />
+      <ImageView fx:id="birdCage" fitHeight="150.0" fitWidth="200.0" layoutX="658.0" layoutY="602.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="defaultBirdImage" fitHeight="125.0" fitWidth="136.0" layoutX="1170.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="birdImage" fitHeight="150.0" fitWidth="200.0" layoutX="583.0" layoutY="225.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="birdNumber" layoutX="818.0" layoutY="717.0" text="Label" />
+      <MenuBar fx:id="menuBar" layoutX="650.0" layoutY="576.0">
+        <menus>
+         
+        </menus>
+      </MenuBar>
+      <TextField fx:id="tdDone" layoutX="1042.0" layoutY="701.0" prefHeight="23.0" prefWidth="180.0" />
+      <Button fx:id="btnSubmit" layoutX="1229.0" layoutY="701.0" mnemonicParsing="false" onAction="#Done" prefHeight="23.0" prefWidth="60.0" text="Do">
+         <padding>
+            <Insets bottom="4.0" left="15.0" right="15.0" top="4.0" />
+         </padding>
+      </Button>
+   </children>
+</AnchorPane>
