@@ -1,6 +1,5 @@
 # RoomTour
-结合JavaFX做的一个小游戏，可用来熟悉JavaFX相关编程
-
+ 结合JavaFX做的一个小游戏，可用来熟悉Java及JavaFX相关编程，课题来源于同学：[课程设计2](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
 =====
 
 A facial recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from a video source. One of the ways to do this is by comparing selected facial features from the image and a facial database.
