@@ -2,7 +2,9 @@
 
 结合JavaFX做的一个小游戏，可用来熟悉Java及JavaFX相关编程，课题来源于同学于同学一[课程设计2](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
 =====
-    基本功能介绍：选取生活中一主题场景，场景中可以包含多个地点，每个地点实现类似街景地图效果(简单的通过切换图片实现，也可以通过全景照片过渡动画实现)。作为扩展，在每个场景中放置可拾取的物品，实现拾取和放置。同时提供小地图或者信息提示，清楚标明当前所在位置...具体要求详见[about.pdf](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
+    基本功能介绍：选取生活中一主题场景，场景中可以包含多个地点，每个地点实现类似街景地图效果(简单的通过切换图片实现，
+    也可以通过全景照片过渡动画实现)。作为扩展，在每个场景中放置可拾取的物品，实现拾取和放置。同时提供小地图或者信息提示，
+    清楚标明当前所在位置...具体要求详见[about.pdf](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
 
 
 JavaFX相关
