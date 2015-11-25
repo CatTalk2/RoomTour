@@ -1,6 +1,6 @@
 # RoomTour
 
-结合JavaFX做的一个小游戏，可用来熟悉Java及JavaFX相关编程，课题来源于同学一[课程设计2](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
+结合JavaFX做的一个小游戏，可用来熟悉Java及JavaFX相关编程，课题来源于[课程设计2](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
 
 [@胖兔子粥粥zzz](http://weibo.com/u/2650897315?from=feed&loc=at&nick=胖兔子粥粥zzz)保留一切作业权利，代码仅供各位学习交流，如果您是作业相关人员请勿抄袭(后果自负)！！！
 
