@@ -2,12 +2,7 @@
 
 结合JavaFX做的一个小游戏，可用来熟悉Java及JavaFX相关编程，课题来源于同学于同学一[课程设计2](https://github.com/msandroid/RoomTour/blob/master/about.pdf)
 
-=====
-
-基本功能要求：
- 
-
-Library
+基本功能要求
 --------
  <img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="80"/>　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/facepp_inside.png" alt="Drawing"  width="200"/>　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/kedaxunfei.png" alt="Drawing" />　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/face.png" alt="Drawing" width="160"/>
 
